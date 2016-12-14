@@ -1,0 +1,32 @@
+{
+    "name": "vitaly63/handbook-demo1",
+    "description": "Base demo.",
+    "keywords": [
+        "PHP",
+        "book",
+        "datebook",
+        "daybook"
+    ],
+    "type": "project",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/vitaly63/HandBook"
+        }
+    ],
+    "require": {
+        "php": ">=5.6",
+        "vitaly63/handbook": "*"
+    },
+    "require-dev": {
+        "php": ">=5.6",
+        "vitaly63/handbook": "*"
+    },
+    "authors": [
+        {
+            "name": "Vitaly Fomin",
+            "email": "vitaly63fomin@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
